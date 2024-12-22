@@ -1,1 +1,1 @@
-This project is a simple recipe page using only HTML.
+This project is a simple recipe page created using only HTML.
